@@ -1,5 +1,5 @@
-# presentacion-2022-ZoeIglesias
-presentacion-2022-ZoeIglesias created by GitHub Classroom
+# Zoe Iglesias
+
 #### Mi nombre es Zoe Daiana Iglesias, tengo 19 años y desde el 2021 que estudio Ingeniería en Sistemas en la UTN.
 - Legajo: 2037348
 - Acerca de mi
